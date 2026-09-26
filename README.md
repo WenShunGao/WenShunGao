@@ -26,11 +26,33 @@ I enjoy understanding how things work, making complex systems easier to reason a
 
 ### Experience
 
-**Wondershare**  
+<p>
+  <a href="https://www.wondershare.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-slogan-vertical-white.svg" />
+      <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-vertical.svg" width="120" alt="Wondershare" title="Wondershare" />
+    </picture>
+  </a><br />
+  Backend Engineering Intern
+</p>
+
+**[Nanjing Kuanta](https://www.quanta-tech.com.cn/)**  
 Backend Engineering Intern
 
-**Nanjing Kuanta**  
-Backend Engineering Intern
+<br />
+
+### Education
+
+**Anhui University of Technology**  
+Undergraduate · Data Science and Big Data Technology
+
+<br />
+
+### Honors & Awards
+
+- **Second Prize, Regional Division** · China Undergraduate Mathematical Contest in Modeling (2024)
+- **Third Prize** · Shuwei Cup National College Student Mathematical Modeling Competition (2025)
+- **Second Prize** · Anhui Provincial Big Data and Artificial Intelligence Application Competition (2025)
 
 <br />
 
