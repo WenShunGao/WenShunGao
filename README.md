@@ -6,7 +6,7 @@ I enjoy building useful software, exploring new ideas, and learning from others.
 
 Always happy to share knowledge and collaborate on open source.
 
-[Email](mailto:054931g@gmail.com) · [GitHub](https://github.com/WenShunGao)
+Email: `054931g@gmail.com` · [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=054931g%40gmail.com)
 
 <br />
 
@@ -18,6 +18,7 @@ Always happy to share knowledge and collaborate on open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" height="34" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="34" height="34" alt="Spring" title="Spring" />
+  <br /><sub>Go · Java · Python · Spring</sub>
 </p>
 
 <p><sub><strong>DATA & MESSAGING</strong></sub></p>
@@ -26,6 +27,7 @@ Always happy to share knowledge and collaborate on open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="34" height="34" alt="Redis" title="Redis" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="34" height="34" alt="Elasticsearch" title="Elasticsearch" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="34" height="34" alt="RabbitMQ" title="RabbitMQ" />
+  <br /><sub>MySQL · Redis · Elasticsearch · RabbitMQ</sub>
 </p>
 
 <p><sub><strong>CLOUD NATIVE & TOOLING</strong></sub></p>
@@ -34,13 +36,12 @@ Always happy to share knowledge and collaborate on open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="34" height="34" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />
+  <br /><sub>Docker · Kubernetes · Linux · Git</sub>
 </p>
 
 <p><sub><strong>AI & AGENTS</strong></sub><br />
 Agent workflows · Tool calling · RAG · Evaluation
 </p>
-
-<br />
 
 ### Experience
 
@@ -51,11 +52,12 @@ Agent workflows · Tool calling · RAG · Evaluation
   </tr>
   <tr>
     <td width="280" valign="middle">
-      <a href="https://www.wondershare.com/"><strong>Wondershare</strong></a><br />
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-slogan-vertical-white.svg" />
-        <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-vertical.svg" width="88" alt="Wondershare logo" />
-      </picture>
+      <a href="https://www.wondershare.com/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-slogan-vertical-white.svg" />
+          <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/wondershare-vertical.svg" width="88" alt="Wondershare" title="Wondershare" />
+        </picture>
+      </a>
     </td>
     <td width="340" valign="middle">Backend Engineering Intern</td>
   </tr>
@@ -65,22 +67,16 @@ Agent workflows · Tool calling · RAG · Evaluation
   </tr>
 </table>
 
-<br />
-
 ### Education
 
 **Anhui University of Technology**  
 Undergraduate · Data Science and Big Data Technology
 
-<br />
-
 ### Honors & Awards
 
-- **Second Prize, Regional Division** · China Undergraduate Mathematical Contest in Modeling (2024)
-- **Third Prize** · Shuwei Cup National College Student Mathematical Modeling Competition (2025)
 - **Second Prize** · Anhui Provincial Big Data and Artificial Intelligence Application Competition (2025)
-
-<br />
+- **Third Prize** · Shuwei Cup National College Student Mathematical Modeling Competition (2025)
+- **Second Prize, Regional Division** · China Undergraduate Mathematical Contest in Modeling (2024)
 
 ---
 
