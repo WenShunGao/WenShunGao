@@ -1,3 +1,3 @@
-# 个人主页说明
+# Profile
 
-主页内容已迁移至 [README.md](./README.md)。
+The profile content lives in [README.md](./README.md).
