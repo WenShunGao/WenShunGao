@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">深空信号站</title>
+  <desc id="desc">以可靠后端，连接智能世界。Go / Java 后端开发，AI 应用与智能体，2027 届。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset="1" stop-color="#10132e"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#423590" stop-opacity=".5"/><stop offset="1" stop-color="#423590" stop-opacity="0"/></radialGradient>
+    <linearGradient id="beam"><stop stop-color="#5ce5ed"/><stop offset="1" stop-color="#ab8cff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#6276a4" stroke-opacity=".10"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="398" rx="18" fill="url(#bg)" stroke="#2b3551"/>
+  <rect x="2" y="2" width="1196" height="396" rx="18" fill="url(#grid)"/>
+  <ellipse cx="937" cy="194" rx="258" ry="230" fill="url(#halo)"/>
+  <path d="M32 66V32H66M1134 32H1168V66M32 334V368H66M1134 368H1168V334" stroke="#5ce5ed" stroke-opacity=".6" fill="none"/>
+  <g fill="#c6d5f3">
+    <circle cx="754" cy="61" r="1.5"/><circle cx="1105" cy="105" r="1"/><circle cx="701" cy="286" r="1"/><circle cx="1060" cy="320" r="1.5"/><circle cx="657" cy="93" r="1"/><circle cx="1136" cy="266" r="1"/>
+  </g>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+    <circle cx="60" cy="70" r="4" fill="#5ce5ed"/>
+    <text x="76" y="76" font-size="15" fill="#77dfe9" letter-spacing="4">深空信号站 / 个人档案</text>
+    <text x="56" y="159" font-size="48" font-weight="700" fill="#f0f5ff">以可靠后端，</text>
+    <text x="56" y="223" font-size="48" font-weight="700" fill="url(#beam)">连接智能世界。</text>
+    <text x="60" y="270" font-size="18" fill="#a8b6d2" letter-spacing="1">Go / Java 后端开发 · AI 应用与智能体</text>
+    <path d="M60 300H606" stroke="#35425e"/>
+    <text x="60" y="330" font-size="14" fill="#7fe5eb">2027 届 · 校招进行中</text>
+    <text x="343" y="330" font-size="14" fill="#a9b5ce">探索 · 构建 · 持续进化</text>
+  </g>
+  <g transform="translate(937 191)" fill="none">
+    <circle r="131" stroke="#53557d" stroke-width="1" stroke-dasharray="2 9"/>
+    <circle r="108" stroke="#536589" stroke-opacity=".55"/>
+    <path d="M-108 0A108 108 0 0 1 42-100M108 0A108 108 0 0 1-42 100" stroke="#74e9ef" stroke-width="2"/>
+    <ellipse rx="161" ry="54" transform="rotate(-30)" stroke="#a991ff" stroke-opacity=".65"/>
+    <ellipse rx="161" ry="54" transform="rotate(30)" stroke="#62dce7" stroke-opacity=".5"/>
+    <path d="M0-66L57-33V33L0 66L-57 33V-33Z" fill="#15213a" stroke="url(#beam)" stroke-width="1.5"/>
+    <path d="M0-46L40-23V23L0 46L-40 23V-23ZM-40-23L0 0L40-23M0 0V46" stroke="#7de5eb" stroke-opacity=".8"/>
+    <circle cx="-132" cy="76" r="5" fill="#b29aff" stroke="#242244" stroke-width="4"/>
+    <circle cx="133" cy="-76" r="5" fill="#74e9ef" stroke="#183446" stroke-width="4"/>
+    <path d="M0-152V-140M0 140V152M-152 0H-140M140 0H152" stroke="#7586ac"/>
+  </g>
+  <text x="937" y="364" text-anchor="middle" fill="#8c9ab9" font-size="12" letter-spacing="3" font-family="Microsoft YaHei, sans-serif">消息 / 检索 / 决策 / 执行</text>
+</svg>
